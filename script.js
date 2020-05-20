@@ -1,4 +1,4 @@
-et submitButton = document.querySelector('#submit-button');
+let submitButton = document.querySelector('#submit-button');
 function emailValidate(email) {
 	return email.includes('@');
 }
