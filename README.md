@@ -1,2 +1,2 @@
 # myPortfolio
-#THIS IS MY FIRS CHANGE TO THE PROJECT I AM TRYING TO BUILD FOR MY PROTFOLIO.
+This is a simple project focussing on the use of the three building block of languages constituting the app dev.
